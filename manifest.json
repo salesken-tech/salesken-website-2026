@@ -1,0 +1,673 @@
+{
+  "source": "https://www.salesken.ai",
+  "mirrored_at": "2026-06-18T11:29:17Z",
+  "total": 133,
+  "success": 132,
+  "pages": [
+    {
+      "path": "/",
+      "ok": true,
+      "file": "site/index.html"
+    },
+    {
+      "path": "/blog",
+      "ok": true,
+      "file": "site/blog/index.html"
+    },
+    {
+      "path": "/book-a-demo",
+      "ok": true,
+      "file": "site/book-a-demo/index.html"
+    },
+    {
+      "path": "/demo-booked",
+      "ok": true,
+      "file": "site/demo-booked/index.html"
+    },
+    {
+      "path": "/pricing",
+      "ok": true,
+      "file": "site/pricing/index.html"
+    },
+    {
+      "path": "/pricing-requested",
+      "ok": true,
+      "file": "site/pricing-requested/index.html"
+    },
+    {
+      "path": "/profit-to-sales-ratio-calculator",
+      "ok": true,
+      "file": "site/profit-to-sales-ratio-calculator/index.html"
+    },
+    {
+      "path": "/revenue-projection-calculator",
+      "ok": true,
+      "file": "site/revenue-projection-calculator/index.html"
+    },
+    {
+      "path": "/sales-forecast-calculator",
+      "ok": true,
+      "file": "site/sales-forecast-calculator/index.html"
+    },
+    {
+      "path": "/sales-lift-calculator",
+      "ok": true,
+      "file": "site/sales-lift-calculator/index.html"
+    },
+    {
+      "path": "/sales-mix-calculator",
+      "ok": true,
+      "file": "site/sales-mix-calculator/index.html"
+    },
+    {
+      "path": "/sales-percentage-calculator",
+      "ok": true,
+      "file": "site/sales-percentage-calculator/index.html"
+    },
+    {
+      "path": "/blog-categories/blogs",
+      "ok": true,
+      "file": "site/blog-categories/blogs/index.html"
+    },
+    {
+      "path": "/blog-categories/templates",
+      "ok": true,
+      "file": "site/blog-categories/templates/index.html"
+    },
+    {
+      "path": "/blog/10-common-sales-mistakes-and-how-ai-can-fix-them",
+      "ok": true,
+      "file": "site/blog/10-common-sales-mistakes-and-how-ai-can-fix-them/index.html"
+    },
+    {
+      "path": "/blog/10-effective-call-center-coaching-and-qa-tips",
+      "ok": true,
+      "file": "site/blog/10-effective-call-center-coaching-and-qa-tips/index.html"
+    },
+    {
+      "path": "/blog/10-tips-for-perfect-sales-follow-up-call",
+      "ok": true,
+      "file": "site/blog/10-tips-for-perfect-sales-follow-up-call/index.html"
+    },
+    {
+      "path": "/blog/13-top-deal-pipeline-metrics-every-sales-leader-should-track",
+      "ok": true,
+      "file": "site/blog/13-top-deal-pipeline-metrics-every-sales-leader-should-track/index.html"
+    },
+    {
+      "path": "/blog/22-types-of-sales-business-should-know",
+      "ok": true,
+      "file": "site/blog/22-types-of-sales-business-should-know/index.html"
+    },
+    {
+      "path": "/blog/30-60-90-sales-plan",
+      "ok": true,
+      "file": "site/blog/30-60-90-sales-plan/index.html"
+    },
+    {
+      "path": "/blog/5-tips-to-improve-first-call-resolution",
+      "ok": true,
+      "file": "site/blog/5-tips-to-improve-first-call-resolution/index.html"
+    },
+    {
+      "path": "/blog/55-powerful-must-ask-sales-questions",
+      "ok": true,
+      "file": "site/blog/55-powerful-must-ask-sales-questions/index.html"
+    },
+    {
+      "path": "/blog/ai-compliance-tools-needs-for-business",
+      "ok": true,
+      "file": "site/blog/ai-compliance-tools-needs-for-business/index.html"
+    },
+    {
+      "path": "/blog/ai-contact-center-myths-busted-what-automation-means-for-businesses",
+      "ok": true,
+      "file": "site/blog/ai-contact-center-myths-busted-what-automation-means-for-businesses/index.html"
+    },
+    {
+      "path": "/blog/ai-driven-revenue-intelligence",
+      "ok": true,
+      "file": "site/blog/ai-driven-revenue-intelligence/index.html"
+    },
+    {
+      "path": "/blog/ai-in-cold-calling",
+      "ok": true,
+      "file": "site/blog/ai-in-cold-calling/index.html"
+    },
+    {
+      "path": "/blog/ai-powered-conversation-intelligence-for-smarter-contact-centers",
+      "ok": true,
+      "file": "site/blog/ai-powered-conversation-intelligence-for-smarter-contact-centers/index.html"
+    },
+    {
+      "path": "/blog/ai-powered-cx-insights-improve-customer-experience",
+      "ok": true,
+      "file": "site/blog/ai-powered-cx-insights-improve-customer-experience/index.html"
+    },
+    {
+      "path": "/blog/ai-powered-note-taking-for-sales-organizations",
+      "ok": true,
+      "file": "site/blog/ai-powered-note-taking-for-sales-organizations/index.html"
+    },
+    {
+      "path": "/blog/ai-qa-software-vs-human-qa-whos-better-at-sales-call-monitoring",
+      "ok": true,
+      "file": "site/blog/ai-qa-software-vs-human-qa-whos-better-at-sales-call-monitoring/index.html"
+    },
+    {
+      "path": "/blog/ai-sales-assistant-detailed-guide-for-smart-selling",
+      "ok": true,
+      "file": "site/blog/ai-sales-assistant-detailed-guide-for-smart-selling/index.html"
+    },
+    {
+      "path": "/blog/ai-sales-coaching-tools-for-saas-companies",
+      "ok": true,
+      "file": "site/blog/ai-sales-coaching-tools-for-saas-companies/index.html"
+    },
+    {
+      "path": "/blog/automatic-sales-call-monitoring-with-salesken",
+      "ok": true,
+      "file": "site/blog/automatic-sales-call-monitoring-with-salesken/index.html"
+    },
+    {
+      "path": "/blog/b2b-cold-calling-tips-for-sales",
+      "ok": true,
+      "file": "site/blog/b2b-cold-calling-tips-for-sales/index.html"
+    },
+    {
+      "path": "/blog/b2b-sales-books",
+      "ok": true,
+      "file": "site/blog/b2b-sales-books/index.html"
+    },
+    {
+      "path": "/blog/b2b-sales-cycle",
+      "ok": true,
+      "file": "site/blog/b2b-sales-cycle/index.html"
+    },
+    {
+      "path": "/blog/best-ai-meeting-assistant-to-improve-sales-calls-and-follow-ups",
+      "ok": true,
+      "file": "site/blog/best-ai-meeting-assistant-to-improve-sales-calls-and-follow-ups/index.html"
+    },
+    {
+      "path": "/blog/best-call-center-ai-tools-2025",
+      "ok": true,
+      "file": "site/blog/best-call-center-ai-tools-2025/index.html"
+    },
+    {
+      "path": "/blog/best-customer-insights-quality-assurance-tools-for-boosting-sales-performance-in-2024",
+      "ok": true,
+      "file": "site/blog/best-customer-insights-quality-assurance-tools-for-boosting-sales-performance-in-2024/index.html"
+    },
+    {
+      "path": "/blog/best-practices-for-leveraging-ai-sales-forecasting-software",
+      "ok": true,
+      "file": "site/blog/best-practices-for-leveraging-ai-sales-forecasting-software/index.html"
+    },
+    {
+      "path": "/blog/best-sales-ai-assistant-tools-for-smarter-selling-in-2024",
+      "ok": true,
+      "file": "site/blog/best-sales-ai-assistant-tools-for-smarter-selling-in-2024/index.html"
+    },
+    {
+      "path": "/blog/call-audit-guide-for-call-centers-in-2025",
+      "ok": true,
+      "file": "site/blog/call-audit-guide-for-call-centers-in-2025/index.html"
+    },
+    {
+      "path": "/blog/chatgpt-salesken-leveraging-generative-ai-for-sales-rep-success",
+      "ok": true,
+      "file": "site/blog/chatgpt-salesken-leveraging-generative-ai-for-sales-rep-success/index.html"
+    },
+    {
+      "path": "/blog/churn-rate-across-industries-in-2024",
+      "ok": true,
+      "file": "site/blog/churn-rate-across-industries-in-2024/index.html"
+    },
+    {
+      "path": "/blog/cold-calling-scripts",
+      "ok": true,
+      "file": "site/blog/cold-calling-scripts/index.html"
+    },
+    {
+      "path": "/blog/common-sales-forecasting-software-features-what-to-look-for-in-2025",
+      "ok": true,
+      "file": "site/blog/common-sales-forecasting-software-features-what-to-look-for-in-2025/index.html"
+    },
+    {
+      "path": "/blog/consultative-selling-b2b",
+      "ok": true,
+      "file": "site/blog/consultative-selling-b2b/index.html"
+    },
+    {
+      "path": "/blog/conversation-intelligence-unlocking-deep-sales-insights-with-ai-salesken",
+      "ok": true,
+      "file": "site/blog/conversation-intelligence-unlocking-deep-sales-insights-with-ai-salesken/index.html"
+    },
+    {
+      "path": "/blog/conversational-intelligence-software-guide",
+      "ok": true,
+      "file": "site/blog/conversational-intelligence-software-guide/index.html"
+    },
+    {
+      "path": "/blog/customer-service-representatives-skills-and-roles",
+      "ok": true,
+      "file": "site/blog/customer-service-representatives-skills-and-roles/index.html"
+    },
+    {
+      "path": "/blog/digital-marketing-performance-gap",
+      "ok": true,
+      "file": "site/blog/digital-marketing-performance-gap/index.html"
+    },
+    {
+      "path": "/blog/enhancing-call-center-operations-with-ai-powered-conversation-intelligence",
+      "ok": true,
+      "file": "site/blog/enhancing-call-center-operations-with-ai-powered-conversation-intelligence/index.html"
+    },
+    {
+      "path": "/blog/exploring-the-impact-of-natural-language-processing-in-improving-sales-call-quality",
+      "ok": true,
+      "file": "site/blog/exploring-the-impact-of-natural-language-processing-in-improving-sales-call-quality/index.html"
+    },
+    {
+      "path": "/blog/hard-sell-vs-soft-sell-with-examples",
+      "ok": true,
+      "file": "site/blog/hard-sell-vs-soft-sell-with-examples/index.html"
+    },
+    {
+      "path": "/blog/hidden-costs-of-not-using-ai-call-recording-software",
+      "ok": true,
+      "file": "site/blog/hidden-costs-of-not-using-ai-call-recording-software/index.html"
+    },
+    {
+      "path": "/blog/how-ai-enhances-conceptual-selling-strategies-tools-and-methodology",
+      "ok": true,
+      "file": "site/blog/how-ai-enhances-conceptual-selling-strategies-tools-and-methodology/index.html"
+    },
+    {
+      "path": "/blog/how-ai-is-revolutionizing-sales-and-marketing-alignment",
+      "ok": true,
+      "file": "site/blog/how-ai-is-revolutionizing-sales-and-marketing-alignment/index.html"
+    },
+    {
+      "path": "/blog/how-ai-sales-assistant-software-increase-revenue-without-hiring-more-reps",
+      "ok": true,
+      "file": "site/blog/how-ai-sales-assistant-software-increase-revenue-without-hiring-more-reps/index.html"
+    },
+    {
+      "path": "/blog/how-ai-sales-assistants-improve-customer-interactions-and-conversions",
+      "ok": true,
+      "file": "site/blog/how-ai-sales-assistants-improve-customer-interactions-and-conversions/index.html"
+    },
+    {
+      "path": "/blog/how-conversation-intelligence-transforms-sales-effectivenes",
+      "ok": true,
+      "file": "site/blog/how-conversation-intelligence-transforms-sales-effectivenes/index.html"
+    },
+    {
+      "path": "/blog/how-to-build-a-sales-team",
+      "ok": true,
+      "file": "site/blog/how-to-build-a-sales-team/index.html"
+    },
+    {
+      "path": "/blog/how-to-increase-sales-effectively",
+      "ok": true,
+      "file": "site/blog/how-to-increase-sales-effectively/index.html"
+    },
+    {
+      "path": "/blog/how-to-record-zoom-calls-a-step-by-step-guide",
+      "ok": true,
+      "file": "site/blog/how-to-record-zoom-calls-a-step-by-step-guide/index.html"
+    },
+    {
+      "path": "/blog/improve-csat-with-call-center-coaching",
+      "ok": true,
+      "file": "site/blog/improve-csat-with-call-center-coaching/index.html"
+    },
+    {
+      "path": "/blog/inside-sales-vs-field-sales-ai-enhancements",
+      "ok": true,
+      "file": "site/blog/inside-sales-vs-field-sales-ai-enhancements/index.html"
+    },
+    {
+      "path": "/blog/integrate-ai-meeting-assistants-with-business-tools-for-maximum-efficiency",
+      "ok": true,
+      "file": "site/blog/integrate-ai-meeting-assistants-with-business-tools-for-maximum-efficiency/index.html"
+    },
+    {
+      "path": "/blog/introductory-sales-call-tips",
+      "ok": true,
+      "file": "site/blog/introductory-sales-call-tips/index.html"
+    },
+    {
+      "path": "/blog/main-challenges-faced-by-revenue-operations-teams",
+      "ok": true,
+      "file": "site/blog/main-challenges-faced-by-revenue-operations-teams/index.html"
+    },
+    {
+      "path": "/blog/mastering-drip-campaigns",
+      "ok": true,
+      "file": "site/blog/mastering-drip-campaigns/index.html"
+    },
+    {
+      "path": "/blog/mastering-sales-performance-guide",
+      "ok": true,
+      "file": "site/blog/mastering-sales-performance-guide/index.html"
+    },
+    {
+      "path": "/blog/need-for-ai-powered-sales-coaching-software-for-sales-managers",
+      "ok": true,
+      "file": "site/blog/need-for-ai-powered-sales-coaching-software-for-sales-managers/index.html"
+    },
+    {
+      "path": "/blog/overcome-sales-objections",
+      "ok": true,
+      "file": "site/blog/overcome-sales-objections/index.html"
+    },
+    {
+      "path": "/blog/overcome-sales-pipeline-challenges-practical-tips-for-success",
+      "ok": true,
+      "file": "site/blog/overcome-sales-pipeline-challenges-practical-tips-for-success/index.html"
+    },
+    {
+      "path": "/blog/overcoming-price-objections",
+      "ok": true,
+      "file": "site/blog/overcoming-price-objections/index.html"
+    },
+    {
+      "path": "/blog/quota-attainment",
+      "ok": true,
+      "file": "site/blog/quota-attainment/index.html"
+    },
+    {
+      "path": "/blog/real-time-deal-tracking-with-salesken-ai-features-and-benefits",
+      "ok": true,
+      "file": "site/blog/real-time-deal-tracking-with-salesken-ai-features-and-benefits/index.html"
+    },
+    {
+      "path": "/blog/role-of-conversation-intelligence-software-in-enhancing-sales-predictions",
+      "ok": true,
+      "file": "site/blog/role-of-conversation-intelligence-software-in-enhancing-sales-predictions/index.html"
+    },
+    {
+      "path": "/blog/sales-and-marketing-strategies-examples",
+      "ok": true,
+      "file": "site/blog/sales-and-marketing-strategies-examples/index.html"
+    },
+    {
+      "path": "/blog/sales-audit-checklists",
+      "ok": true,
+      "file": "site/blog/sales-audit-checklists/index.html"
+    },
+    {
+      "path": "/blog/sales-audits",
+      "ok": true,
+      "file": "site/blog/sales-audits/index.html"
+    },
+    {
+      "path": "/blog/sales-business-plan",
+      "ok": true,
+      "file": "site/blog/sales-business-plan/index.html"
+    },
+    {
+      "path": "/blog/sales-coaching-for-consultative-selling-success",
+      "ok": true,
+      "file": "site/blog/sales-coaching-for-consultative-selling-success/index.html"
+    },
+    {
+      "path": "/blog/sales-conversations",
+      "ok": true,
+      "file": "site/blog/sales-conversations/index.html"
+    },
+    {
+      "path": "/blog/sales-data-analysis",
+      "ok": true,
+      "file": "site/blog/sales-data-analysis/index.html"
+    },
+    {
+      "path": "/blog/sales-enablement-strategy",
+      "ok": true,
+      "file": "site/blog/sales-enablement-strategy/index.html"
+    },
+    {
+      "path": "/blog/sales-engagement",
+      "ok": true,
+      "file": "site/blog/sales-engagement/index.html"
+    },
+    {
+      "path": "/blog/sales-forecasting-template",
+      "ok": true,
+      "file": "site/blog/sales-forecasting-template/index.html"
+    },
+    {
+      "path": "/blog/sales-growth-kpis-metrics",
+      "ok": true,
+      "file": "site/blog/sales-growth-kpis-metrics/index.html"
+    },
+    {
+      "path": "/blog/sales-leader-skills",
+      "ok": true,
+      "file": "site/blog/sales-leader-skills/index.html"
+    },
+    {
+      "path": "/blog/sales-mindset-qualities",
+      "ok": true,
+      "file": "site/blog/sales-mindset-qualities/index.html"
+    },
+    {
+      "path": "/blog/sales-objectives",
+      "ok": true,
+      "file": "site/blog/sales-objectives/index.html"
+    },
+    {
+      "path": "/blog/sales-performance-metrics-guide-2024",
+      "ok": true,
+      "file": "site/blog/sales-performance-metrics-guide-2024/index.html"
+    },
+    {
+      "path": "/blog/sales-pipeline-analysis",
+      "ok": true,
+      "file": "site/blog/sales-pipeline-analysis/index.html"
+    },
+    {
+      "path": "/blog/sales-pipeline-template",
+      "ok": true,
+      "file": "site/blog/sales-pipeline-template/index.html"
+    },
+    {
+      "path": "/blog/sales-potential-metrics",
+      "ok": true,
+      "file": "site/blog/sales-potential-metrics/index.html"
+    },
+    {
+      "path": "/blog/sales-prospecting-guide",
+      "ok": true,
+      "file": "site/blog/sales-prospecting-guide/index.html"
+    },
+    {
+      "path": "/blog/sales-strategies",
+      "ok": true,
+      "file": "site/blog/sales-strategies/index.html"
+    },
+    {
+      "path": "/blog/sales-strategy-framework",
+      "ok": true,
+      "file": "site/blog/sales-strategy-framework/index.html"
+    },
+    {
+      "path": "/blog/sales-success-with-generative-ai",
+      "ok": true,
+      "file": "site/blog/sales-success-with-generative-ai/index.html"
+    },
+    {
+      "path": "/blog/sales-words-guide",
+      "ok": true,
+      "file": "site/blog/sales-words-guide/index.html"
+    },
+    {
+      "path": "/blog/salesken-crm-integrations",
+      "ok": true,
+      "file": "site/blog/salesken-crm-integrations/index.html"
+    },
+    {
+      "path": "/blog/salesken-for-edtech-sales-game-change",
+      "ok": true,
+      "file": "site/blog/salesken-for-edtech-sales-game-change/index.html"
+    },
+    {
+      "path": "/blog/salesken-revenue-intelligence-ai-features-use-cases-benefits",
+      "ok": true,
+      "file": "site/blog/salesken-revenue-intelligence-ai-features-use-cases-benefits/index.html"
+    },
+    {
+      "path": "/blog/smart-selling-goals-for-sales-teams",
+      "ok": true,
+      "file": "site/blog/smart-selling-goals-for-sales-teams/index.html"
+    },
+    {
+      "path": "/blog/speech-analytics-software-benefits-for-sales-team",
+      "ok": true,
+      "file": "site/blog/speech-analytics-software-benefits-for-sales-team/index.html"
+    },
+    {
+      "path": "/blog/successful-sales-plan",
+      "ok": true,
+      "file": "site/blog/successful-sales-plan/index.html"
+    },
+    {
+      "path": "/blog/supercharge-sales-conversions-stellar-product-demos",
+      "ok": true,
+      "file": "site/blog/supercharge-sales-conversions-stellar-product-demos/index.html"
+    },
+    {
+      "path": "/blog/the-best-ai-tools-for-real-estate-sales-agents",
+      "ok": true,
+      "file": "site/blog/the-best-ai-tools-for-real-estate-sales-agents/index.html"
+    },
+    {
+      "path": "/blog/the-best-revenue-intelligence-tools-in-2025",
+      "ok": true,
+      "file": "site/blog/the-best-revenue-intelligence-tools-in-2025/index.html"
+    },
+    {
+      "path": "/blog/the-importance-of-call-summaries-in-the-sales-industry",
+      "ok": true,
+      "file": "site/blog/the-importance-of-call-summaries-in-the-sales-industry/index.html"
+    },
+    {
+      "path": "/blog/the-lava-technique-to-objection-handling",
+      "ok": true,
+      "file": "site/blog/the-lava-technique-to-objection-handling/index.html"
+    },
+    {
+      "path": "/blog/top-11-conversation-intelligence-tools-for-b2b-companies",
+      "ok": true,
+      "file": "site/blog/top-11-conversation-intelligence-tools-for-b2b-companies/index.html"
+    },
+    {
+      "path": "/blog/top-features-to-look-for-in-sales-predictive-analytics-software",
+      "ok": true,
+      "file": "site/blog/top-features-to-look-for-in-sales-predictive-analytics-software/index.html"
+    },
+    {
+      "path": "/blog/ultimate-guide-to-reducing-sales-ramp-up-time",
+      "ok": true,
+      "file": "site/blog/ultimate-guide-to-reducing-sales-ramp-up-time/index.html"
+    },
+    {
+      "path": "/blog/unlocking-sales-potential-with-sales-coaching-software",
+      "ok": true,
+      "file": "site/blog/unlocking-sales-potential-with-sales-coaching-software/index.html"
+    },
+    {
+      "path": "/blog/use-sales-power-words-to-craft-winning-sales-emails-and-calls",
+      "ok": true,
+      "file": "site/blog/use-sales-power-words-to-craft-winning-sales-emails-and-calls/index.html"
+    },
+    {
+      "path": "/blog/what-are-some-key-use-cases-for-ai-in-sales",
+      "ok": true,
+      "file": "site/blog/what-are-some-key-use-cases-for-ai-in-sales/index.html"
+    },
+    {
+      "path": "/blog/what-is-sales-volume-15-ways-to-increase-it",
+      "ok": true,
+      "file": "site/blog/what-is-sales-volume-15-ways-to-increase-it/index.html"
+    },
+    {
+      "path": "/blog/who-is-b2b-sales-representative",
+      "ok": true,
+      "file": "site/blog/who-is-b2b-sales-representative/index.html"
+    },
+    {
+      "path": "/blog/why-ai-powered-contact-centers-are-a-game-changer-for-sales-teams",
+      "ok": true,
+      "file": "site/blog/why-ai-powered-contact-centers-are-a-game-changer-for-sales-teams/index.html"
+    },
+    {
+      "path": "/blog/why-ai-sales-forecasting-tools-are-essential-for-enterprise-level-sales-strategies",
+      "ok": true,
+      "file": "site/blog/why-ai-sales-forecasting-tools-are-essential-for-enterprise-level-sales-strategies/index.html"
+    },
+    {
+      "path": "/blog/why-salesken-ai-for-real-estate",
+      "ok": true,
+      "file": "site/blog/why-salesken-ai-for-real-estate/index.html"
+    },
+    {
+      "path": "/blog/your-b2b-saas-sales-guide-2024",
+      "ok": true,
+      "file": "site/blog/your-b2b-saas-sales-guide-2024/index.html"
+    },
+    {
+      "path": "/legal/data-processing-addendum",
+      "ok": true,
+      "file": "site/legal/data-processing-addendum/index.html"
+    },
+    {
+      "path": "/legal/legal-vulnerability-disclosure-policy",
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "/legal/privacy-policy",
+      "ok": true,
+      "file": "site/legal/privacy-policy/index.html"
+    },
+    {
+      "path": "/legal/terms-conditions",
+      "ok": true,
+      "file": "site/legal/terms-conditions/index.html"
+    },
+    {
+      "path": "/product/ai-sales-assistant",
+      "ok": true,
+      "file": "site/product/ai-sales-assistant/index.html"
+    },
+    {
+      "path": "/product/quality-assurance",
+      "ok": true,
+      "file": "site/product/quality-assurance/index.html"
+    },
+    {
+      "path": "/product/revenue-intelligence",
+      "ok": true,
+      "file": "site/product/revenue-intelligence/index.html"
+    },
+    {
+      "path": "/use-cases/compliance",
+      "ok": true,
+      "file": "site/use-cases/compliance/index.html"
+    },
+    {
+      "path": "/use-cases/revops",
+      "ok": true,
+      "file": "site/use-cases/revops/index.html"
+    },
+    {
+      "path": "/use-cases/sales-team",
+      "ok": true,
+      "file": "site/use-cases/sales-team/index.html"
+    }
+  ]
+}

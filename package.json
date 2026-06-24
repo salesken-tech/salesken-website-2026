@@ -1,0 +1,11 @@
+{
+  "name": "salesken-clone",
+  "version": "1.0.0",
+  "description": "Local mirror of www.salesken.ai",
+  "scripts": {
+    "mirror": "python3 scripts/mirror.py",
+    "mirror:menu": "python3 scripts/mirror.py --menu-only",
+    "serve": "python3 -m http.server 8080 --directory site",
+    "start": "npm run serve"
+  }
+}
