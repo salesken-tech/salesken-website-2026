@@ -26,6 +26,7 @@ python3 scripts/mirror.py --menu-only
 ## Run locally
 
 ```bash
+
 npm run serve
 ```
 
